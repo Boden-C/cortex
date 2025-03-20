@@ -1,5 +1,7 @@
 # Cortex
-Low-level reimplementation of the Evolution Machine Learning series
-
-> [!NOTE]  
-> Cortex is currently private as we figure out some licensing issues
+Low-level reimplementation of the Evolution LLM series
+## Evolution
+- Emergence Model - the first llm
+- Elevation Model - refining
+- Execution Model - the first acceptable one
+- Enhancement Model - (planned)
